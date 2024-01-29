@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.box{
+    margin:2rem;
+    display:flex;
+    justify-content: center; 
+}
+
+ .subbox{
+    margin: 1rem;
+    height: 200px;
+    width: 200px;
+    border: 6px solid black;
+    border-radius: 2rem;
+
+}
+.pink{
+    background-color: #d95980;
+}
+
+.green{
+    background-color:mediumspringgreen;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.purple{
+    background-color: #63aac0;
+} 
+
+.white{
+    background-color: white;
+
+}
+
+.user{
+    background-color: green;
+}
+span{
+    text-align: end;
+}
